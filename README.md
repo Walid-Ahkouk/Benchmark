@@ -124,4 +124,8 @@ Exécutez chaque scénario `.jmx` contre la variante d'application en cours d'ex
 
 Pendant que les tests JMeter s'exécutent, observez les dashboards Grafana.
 
-[cite\_start]L'objectif final est de collecter les données de performance (RPS, p95, Erreurs) et les métriques JVM (CPU, Heap, GC, Threads) pour chaque scénario et chaque variante afin de remplir les tableaux d'analyse (T2 à T7) [cite: 136, 142, 173] [cite\_start]et de formuler des recommandations[cite: 174].
+[cite\_start]L'objectif final est de collecter les données de performance (RPS, p95, Erreurs) et les métriques JVM (CPU, Heap, GC, Threads) pour chaque scénario et chaque variante afin de remplir les tableaux d'analyse (T2 à T7) [cite: 136, 142, 173] [cite\_start]et de formuler des r
+[benchmark.pdf](https://github.com/user-attachments/files/23487503/benchmark.pdf)
+ecommandations[cite: 174].
+
+
