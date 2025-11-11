@@ -1,0 +1,13 @@
+# Build output
+target/
+
+# JMeter logs and results
+*.jtl
+jmeter.log
+temp/
+
+# Large data files
+payloads_*.csv
+category_ids.csv
+item_ids.csv
+results_*.jtl
